@@ -16,7 +16,7 @@ Generated Files `accounts.csv`
 
 `python python simplified_main.py`
 
-Generated Files `wallet_static_edges_distribution_based.csv` `wallet_temporal_transactions_1105_1450_temp.csv`
+Generated Files `wallet_static_edges_distribution_based.csv` `wallet_temporal_transactions_1105_1450.csv`
 
 ### Wallet Closure Simulator
 
