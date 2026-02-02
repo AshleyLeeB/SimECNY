@@ -1,28 +1,23 @@
 # SimECNY
+
 A simulator of wallet account, transaction, and closure for E-CNY.
 
-# open Wallet Opening
+## Wallet Creation Simulator
 
-## Python Execution
+`python open_wallet_distribution_based.py`
 
-python open_wallet_distribution_based.py
+Generated Files `accounts.csv`
 
-## Generated Files accounts.csv
+## Wallet Transaction Simulator
 
-# transaction Transaction Module
+`python generate_static_edges.py` 
 
-## Python Execution
+`python python simplified_main.py`
 
-python generate_static_edges.py 
+Generated Files `wallet_static_edges_distribution_based.csv` `wallet_temporal_transactions_1105_1450_temp.csv`
 
-python python simplified_main.py
+## Wallet Closure Simulator
 
-## Generated Files wallet_static_edges_distribution_based.csv wallet_temporal_transactions_1105_1450_temp.csv[Final Version]
+`python generate_wallet_close_data.py` 
 
-# close Wallet Closure Module
-
-## Python Execution
-
-python generate_wallet_close_data.py 
-
-## Generated Files new_close_3.csv
+Generated Files `new_close_3.csv`
