@@ -1,6 +1,8 @@
 # SimECNY
 
-A simulator of wallet account, transaction, and closure for E-CNY. The SimECNY dataset: [SimECNY](https://pixeldrain.com/u/cb5E6A3j)
+A simulator of wallet account, transaction, and closure for E-CNY. The SimECNY dataset: [SimECNY](https://pixeldrain.com/u/cb5E6A3j) 
+
+If the link cannot be open, please concat us: alee90792@gmail.com.
 
 ## Data Simulation
 
